@@ -18,7 +18,7 @@ Built with **HTML, CSS, JavaScript, Chart.js**, and **OpenWeatherMap API**.
 
 ## 🖼️ Demo
 🔗 [Live Demo](https://naveench8486.github.io/weather-dashboard/)  
-(Add your GitHub Pages link here once deployed)
+
 
 ---
 
@@ -27,9 +27,3 @@ Built with **HTML, CSS, JavaScript, Chart.js**, and **OpenWeatherMap API**.
 
 ---
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repo
-```bash
-git clone https://github.com/your-username/weather-dashboard.git
-cd weather-dashboard
