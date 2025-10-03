@@ -23,7 +23,7 @@ Built with **HTML, CSS, JavaScript, Chart.js**, and **OpenWeatherMap API**.
 ---
 
 ## 📷 Screenshots
-![Weather Dashboard Screenshot](screenshot.png)
+![Weather Dashboard Screenshot](Screenshot 2025-10-03 152834.png)
 
 ---
 
